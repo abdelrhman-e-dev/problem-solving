@@ -1,11 +1,20 @@
-# LeetCode
+# 🚀 LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems.
+My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com/)!
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+## 📊 Statistics
 
- ## Made by 
- - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+- **Total Problems Solved:** 1
+- **Easy:** 1 🟢
+- **Medium:** 0 🟡
+- **Hard:** 0 🔴
 
- Happy coding! 🚀
+## 📝 Problems
+
+| Problem | Difficulty | Language | Date |
+|---------|-----------|----------|------|
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | 🟢 Easy | php | 2025-12-28 |
+
+---
+
+*Generated automatically by [LeetCode to GitHub Extension](https://github.com/abdelrhman-e-dev/problem-solving)*
